@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: com.github.CptZee.Grades_Calculator.Calculator
+Main-Class: com.github.CptZee.Grades_Calculator.GradeCalcu
 
